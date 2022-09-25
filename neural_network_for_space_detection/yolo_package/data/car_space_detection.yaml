@@ -1,0 +1,6 @@
+train: ../neural_network_for_space_detection/parking_annotations-1/train/
+test: ../neural_network_for_space_detection/parking_annotations-1/test/
+valid: ../neural_network_for_space_detection/parking_annotations-1/valid/
+nc: 2
+
+names: ["occupied", "not occupied"]

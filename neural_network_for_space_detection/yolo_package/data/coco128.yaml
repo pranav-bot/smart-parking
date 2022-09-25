@@ -1,0 +1,6 @@
+names:
+- free
+- occupied
+nc: 2
+train: parking_annotations-1/train/images
+val: parking_annotations-1/valid/images
